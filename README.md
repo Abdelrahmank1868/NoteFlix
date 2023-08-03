@@ -35,3 +35,5 @@ NoteFlix isn't just another note-taking app; it's a canvas for your thoughts, a 
 - **Endless Growth:** NoteFlix is committed to continuous evolution. Expect fresh features and enhancements that keep your note-taking journey exciting and dynamic.
 
 Experience note-taking on an entirely new level – where technology, emotion, and creativity converge to empower your ideas. Embark on your path to extraordinary expression with NoteFlix.
+
+This project is currently under development. For feedback and inquiries, please reach out to blizzardbyte@outlook.com.
